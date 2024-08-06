@@ -1,4 +1,4 @@
-# IMLA-Final_Project
+# IMLA-Final-Project
 Project: CNN Image Classification with Bayesian Optimization. 
 
 Overview: The project utilizes Convolutional Neural Network (CNN) architecture for image classification tasks, with Bayesian Optimization being used to fine-tune hyperparameters like convolutional layers, kernel size, kernel number, and dropout rates.
